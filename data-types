@@ -1,0 +1,7 @@
+Data type tells what type of data a variable can carry 
+  for example 
+  a=10
+  means a can carry numeric or integer by data 
+  f=10.2
+  f can hold onto floating point  or decimal type data 
+  
