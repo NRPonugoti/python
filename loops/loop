@@ -1,0 +1,7 @@
+2 types of loops in python
+
+1. For loop
+for loop execute against sequence , it can be list , tuple 
+syntax :
+for i in sequence 
+2. while loop
